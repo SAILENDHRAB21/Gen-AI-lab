@@ -1,0 +1,7 @@
+SAMPLE INPUT
+Image of a dog in a field (URL) + Question: 'What animal is in the picture?'
+
+SAMPLE OUTPUT
+Generated Caption: a dog running through a grassy field
+Question: What animal is in the picture?
+Answer: dog
